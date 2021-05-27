@@ -1,0 +1,16 @@
+edu\upc\etsetb\arqsoft\spreadsheet\util\Operand.class
+edu\upc\etsetb\arqsoft\spreadsheet\entity\cell\CellImpl.class
+edu\upc\etsetb\arqsoft\spreadsheet\entity\content\NumericContent.class
+edu\upc\etsetb\arqsoft\spreadsheet\util\Operator.class
+edu\upc\etsetb\arqsoft\spreadsheet\controller\SpreadsheetController.class
+edu\upc\etsetb\arqsoft\spreadsheet\entity\content\Content.class
+edu\upc\etsetb\arqsoft\spreadsheet\file\FileManager.class
+edu\upc\etsetb\arqsoft\spreadsheet\file\FileManagerImpl.class
+edu\upc\etsetb\arqsoft\spreadsheet\entity\content\TextContent.class
+edu\upc\etsetb\arqsoft\spreadsheet\entity\content\FormulaContent.class
+edu\upc\etsetb\arqsoft\spreadsheet\ui\UserInterface.class
+edu\upc\etsetb\arqsoft\spreadsheet\ui\UserInterfaceImpl.class
+edu\upc\etsetb\arqsoft\spreadsheet\util\FormulaComponent.class
+edu\upc\etsetb\arqsoft\spreadsheet\entity\cell\Cell.class
+edu\upc\etsetb\arqsoft\spreadsheet\entity\Spreadsheet.class
+edu\upc\etsetb\arqsoft\spreadsheet\entity\SpreadsheetMap.class
